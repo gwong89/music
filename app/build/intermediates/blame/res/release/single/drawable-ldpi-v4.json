@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/drawable-ldpi-v4/tnc_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-ldpi/tnc_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/drawable-ldpi-v4/tnc_ic.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-ldpi/tnc_ic.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/drawable-ldpi-v4/icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-ldpi/icon.png"
+    }
+]

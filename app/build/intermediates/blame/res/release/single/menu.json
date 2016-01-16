@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/activity_mic.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/activity_mic.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/activity_main.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/activity_playaround.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/activity_playaround.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/soon_to_be.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/soon_to_be.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/activity_tutorial_ms.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/activity_tutorial_ms.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/activity_test.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/activity_test.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/levelactivity_menu.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/levelactivity_menu.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/settings.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/settings.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/choose_song_menu.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/choose_song_menu.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/dashboard_menu.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/dashboard_menu.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/beats_.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/beats_.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/release/menu/sheet_menu.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/menu/sheet_menu.xml"
+    }
+]

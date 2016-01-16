@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/animator/fade_in.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/animator/fade_in.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/animator/push_left_in.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/animator/push_left_in.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/animator/hyperspace_out.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/animator/hyperspace_out.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/animator/push_up_out.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/animator/push_up_out.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/animator/push_up_in.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/animator/push_up_in.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/animator/fade_out.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/animator/fade_out.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/animator/falling.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/animator/falling.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/animator/push_left_out.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/animator/push_left_out.xml"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/animator/hyperspace_in.xml",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/animator/hyperspace_in.xml"
+    }
+]

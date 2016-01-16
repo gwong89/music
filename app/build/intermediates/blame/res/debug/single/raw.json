@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/raw/beat5.ogg",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/raw/beat5.ogg"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/raw/snare.ogg",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/raw/snare.ogg"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/raw/beat4.ogg",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/raw/beat4.ogg"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/raw/beat2.ogg",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/raw/beat2.ogg"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/raw/clap1.ogg",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/raw/clap1.ogg"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/raw/beat3.ogg",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/raw/beat3.ogg"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/raw/beat1.ogg",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/raw/beat1.ogg"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/raw/beat6.ogg",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/raw/beat6.ogg"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/raw/pianoc4",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/raw/pianoc4"
+    }
+]

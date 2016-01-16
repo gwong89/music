@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="?android:attr/listPreferredItemHeight"
+                android:id="@+id/rowlayout"
+                android:padding="6dip"
+        >
+    <LinearLayout android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal"
+                  android:layout_gravity="center_vertical"
+            >
+        <ImageView
+                android:id="@+id/icon"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_vertical"
+                android:contentDescription="TODO"
+                android:layout_weight="1"
+                android:src="@drawable/piano_icon" />
+
+
+        <TextView
+                android:id="@+id/label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="10"
+                android:layout_gravity="center_vertical"
+                android:text="Example application"
+                android:textColor="#93a1a1"
+                android:textSize="16sp" />
+
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

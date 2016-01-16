@@ -1,29 +1,25 @@
 package com.tncmusicstudio;
 
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.HashMap;
-import java.util.Set;
-
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.AssetManager;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.Color;
 import android.graphics.drawable.BitmapDrawable;
-import android.graphics.drawable.ColorDrawable;
 import android.media.AudioManager;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.*;
+import android.view.Display;
+import android.view.KeyEvent;
+import android.view.LayoutInflater;
+import android.view.View;
 import android.view.View.OnClickListener;
+import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.AdapterView;
@@ -39,15 +35,20 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.actionbarsherlock.app.SherlockActivity;
 import com.actionbarsherlock.app.SherlockFragment;
 import com.actionbarsherlock.view.Menu;
-import com.actionbarsherlock.view.MenuItem;
 import com.actionbarsherlock.view.MenuInflater;
-import com.model.NotePlay;
+import com.actionbarsherlock.view.MenuItem;
 import com.model.RecManager;
 import com.model.RecNotes;
 import com.model.TupleStringInt;
+
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.HashMap;
+import java.util.Set;
+
+import android.media.midi.*;
 
 public class PlayAroundActivity extends SherlockFragment {
 	String[] values = new String[] { "Level 0: Keyboard Note Training! ",

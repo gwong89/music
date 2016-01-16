@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/play_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_commit_search_api_holo_dark.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pianointro_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/pianointro_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_clear_normal.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_commit_search_api_holo_light.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_search_api_holo_light.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_voice_search.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_voice_search.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_menu_share_holo_dark.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__spinner_48_outer_holo.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dj_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/dj_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_ab_back_holo_light.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/oneshot_text.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/oneshot_text.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_cab_done_holo_dark.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pianoicon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/pianoicon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_solid_light_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_white_24dp.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/photos_default.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/photos_default.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__spinner_ab_default_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__progress_secondary_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tnc_ic.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/tnc_ic.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messages_pressed.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/messages_pressed.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tnc_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/tnc_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_menu_share_holo_light.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__spinner_ab_focused_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/beats_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/beats_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__tab_selected_pressed_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_clear_disabled.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__textfield_search_right_default_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_stacked_solid_light_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_voice_search_api_holo_light.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recnote_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/recnote_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_clear_search_api_holo_light.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__list_activated_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_feed_selected.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/news_feed_selected.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__progress_primary_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__textfield_search_selected_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/one_shots.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/one_shots.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_bottom_solid_light_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__cab_background_top_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_cab_done_holo_light.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_share_pack_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__tab_selected_focused_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_solid_shadow_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/events_pressed.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/events_pressed.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__cab_background_top_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_search.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_search.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__list_divider_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__list_pressed_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_go.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_go.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_background.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/actionbar_background.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/submenu_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/submenu_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/friends_pressed.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/friends_pressed.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loop_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/loop_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/next_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/friends_selected.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/friends_selected.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__progress_bg_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__cab_background_bottom_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__spinner_ab_default_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_transparent_light_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/facebook_logo.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/facebook_logo.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_feed_default.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/news_feed_default.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/photos_pressed.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/photos_pressed.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/events_default.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/events_default.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/trash_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/trash_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messages_default.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/messages_default.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__progress_primary_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/replay_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/replay_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/friends_default.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/friends_default.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_ab_back_holo_dark.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__list_longpressed_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__list_pressed_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/places_selected.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/places_selected.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__spinner_48_inner_holo.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tutorial_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/tutorial_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__cab_background_bottom_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__list_selector_disabled_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/places_default.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/places_default.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/events_selected.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/events_selected.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/photos_selected.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/photos_selected.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__progress_bg_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__list_focused_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__progress_secondary_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__tab_unselected_pressed_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/previous_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/previous_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messages_selected.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/messages_selected.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/record_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/record_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_compat_background.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/actionbar_compat_background.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__toast_frame.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__toast_frame.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__btn_cab_done_default_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_solid_dark_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/save_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/save_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_transparent_dark_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__textfield_search_default_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/beats_letters.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/beats_letters.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__list_divider_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/places_pressed.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/places_pressed.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mic_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/mic_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ab_share_pack_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__textfield_search_default_holo_light.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_feed_pressed.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/news_feed_pressed.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/piano_icon.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/src/main/res/drawable-hdpi/piano_icon.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__tab_selected_holo.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__textfield_search_selected_holo_dark.9.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abs__ic_go_search_api_holo_light.png",
+        "source": "/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-hdpi/abs__ic_go_search_api_holo_light.png"
+    }
+]
