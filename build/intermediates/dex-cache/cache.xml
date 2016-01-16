@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/Users/Kurt/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
-        <dex dex="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/pre-dexed/release/support-annotations-20.0.0_404358ee116ae63c11d325269d8cfb1879232335.jar" />
-    </item>
-    <item
         jar="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -16,11 +9,11 @@
         <dex dex="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/pre-dexed/release/internal_impl-20.0.0_1c1c7a111280d69900b3e9dcb293db21f4308e8d.jar" />
     </item>
     <item
-        jar="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/jars/classes.jar"
+        jar="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="af64527b748983a75de9c0756e9768b56b240a49">
-        <dex dex="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/pre-dexed/release/com.actionbarsherlock-actionbarsherlock-4.4.0_cb1222c9fd613082ba346f2d7953572b5ec1ceda.jar" />
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-20.0.0_7d34f6d27b668e32140d849812c96c89fd6d0e42.jar" />
     </item>
     <item
         jar="/Users/Kurt/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.5/77bf7cacf9cefe19dc105e5425d2eb1bb5285881/android-async-http-1.4.5.jar"
@@ -30,11 +23,18 @@
         <dex dex="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/pre-dexed/release/android-async-http-1.4.5_d298cdbc103f0c98e9aec17fd5813e2d1589c09c.jar" />
     </item>
     <item
-        jar="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jar="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
-        <dex dex="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-20.0.0_7d34f6d27b668e32140d849812c96c89fd6d0e42.jar" />
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/pre-dexed/release/com.actionbarsherlock-actionbarsherlock-4.4.0_cb1222c9fd613082ba346f2d7953572b5ec1ceda.jar" />
+    </item>
+    <item
+        jar="/Users/Kurt/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/Kurt/Documents/Android Studio/music/app/build/intermediates/pre-dexed/release/support-annotations-20.0.0_404358ee116ae63c11d325269d8cfb1879232335.jar" />
     </item>
 
 </items>
